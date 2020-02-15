@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-77:12
+ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-72:12
 MERGED from [:VuforiaWrapper:] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/0e6540b5424a53c61698026bedae3f45/VuforiaWrapper/AndroidManifest.xml:2:1-32:12
 MERGED from [com.google.firebase:firebase-database:19.2.1] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/40d203d0674822dbdfc1bb4103e3a3d4/firebase-database-19.2.1/AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/f15f2c10dd03afadad158d010498ad07/firebase-analytics-17.2.2/AndroidManifest.xml:2:1-9:12
@@ -56,22 +56,22 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/arnavgohil/.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/cf1beec41d3606c2f878b1c5dd26a539/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/5e0444443ffb82f923834973bbf621d3/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/7189998640d03cd8247a01f86409460d/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
-INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-72:12
 	package
 		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:4:5-34
 		INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml
 		INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml
-		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-77:12
+		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-72:12
 		INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml
-		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-77:12
+		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-72:12
 		INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:11-69
@@ -157,7 +157,7 @@ ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManife
 	android:name
 		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:35:9-72
 application
-ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:38:5-75:19
+ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:38:5-70:19
 MERGED from [:VuforiaWrapper:] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/0e6540b5424a53c61698026bedae3f45/VuforiaWrapper/AndroidManifest.xml:19:5-30:19
 MERGED from [:VuforiaWrapper:] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/0e6540b5424a53c61698026bedae3f45/VuforiaWrapper/AndroidManifest.xml:19:5-30:19
 MERGED from [com.google.firebase:firebase-database:19.2.1] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/40d203d0674822dbdfc1bb4103e3a3d4/firebase-database-19.2.1/AndroidManifest.xml:28:5-36:19
@@ -258,18 +258,6 @@ ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManife
 		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:68:13-65
 	android:name
 		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:67:13-42
-meta-data#unity.splash-mode
-ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:69:9-71:33
-	android:value
-		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:71:13-30
-	android:name
-		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:70:13-45
-meta-data#unity.splash-enable
-ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:72:9-74:36
-	android:value
-		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:74:13-33
-	android:name
-		ADDED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:73:13-47
 uses-sdk
 INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml
@@ -421,7 +409,7 @@ ADDED from [:VuforiaWrapper:] /Users/arnavgohil/.gradle/caches/transforms-2/file
 	android:name
 		ADDED from [:VuforiaWrapper:] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/0e6540b5424a53c61698026bedae3f45/VuforiaWrapper/AndroidManifest.xml:28:13-54
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-77:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/arnavgohil/AndroidStudioProjects/ARCARD/src/main/AndroidManifest.xml:2:1-72:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/40d203d0674822dbdfc1bb4103e3a3d4/firebase-database-19.2.1/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/arnavgohil/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
