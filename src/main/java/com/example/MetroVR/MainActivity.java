@@ -5,8 +5,10 @@ import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
+
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -18,9 +20,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
-    public void Hi(View view)
-    {
-        startActivity(new Intent(this , UnityPlayerActivity.class ),
+    public void Hi(View view) {
+        startActivity(new Intent(this, UnityPlayerActivity.class),
                 ActivityOptions.makeSceneTransitionAnimation(MainActivity.this).toBundle());
     }
 }
